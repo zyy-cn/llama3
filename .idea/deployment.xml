@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zyy@172.24.52.113:22" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="zyy@115.157.195.25:22_llama2">
         <serverdata>
@@ -19,7 +19,7 @@
       <paths name="zyy@172.24.52.113:22">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/zyy/code/llama3" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
@@ -38,5 +38,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
